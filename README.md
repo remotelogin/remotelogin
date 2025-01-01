@@ -3,4 +3,4 @@
 [![OpenGL](https://img.shields.io/badge/OpenGL-blue?style=for-the-badge&logo=opengl&logoColor=fff)](#)
 [![Vulkan](https://img.shields.io/badge/Vulkan-orange?style=for-the-badge&logo=vulkan&logoColor=fff)](#)
 
-be gay do crime
+cpp ist ein schmackofatz
