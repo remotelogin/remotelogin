@@ -3,4 +3,4 @@
 [![OpenGL](https://img.shields.io/badge/OpenGL-blue?style=for-the-badge&logo=opengl&logoColor=fff)](#)
 [![Vulkan](https://img.shields.io/badge/Vulkan-orange?style=for-the-badge&logo=vulkan&logoColor=fff)](#)
 
-I am not reinventing the wheel, I am disrupting the wheel industry.
+I am not reinventing the wheel, I am disrupting the entire wheel industry.
